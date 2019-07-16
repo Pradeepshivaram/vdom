@@ -1,0 +1,23 @@
+{
+  "name": "vdom",
+  "version": "1.0.0",
+  "description": "virtual dom",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pradeepshivaram/vdom.git"
+  },
+  "author": "pradeepshivaram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pradeepshivaram/vdom/issues"
+  },
+  "homepage": "https://github.com/Pradeepshivaram/vdom#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
